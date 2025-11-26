@@ -1,4 +1,4 @@
-# MachineLearningProject3
+# Machine Learning Project 3 - CNNs
 
 This repository contains a Convolutional Neural Network (CNN) to classify images into two categories: official University of Arkansas logo vs. not official logo. The workflow includes dataset creation, preprocessing, model training, hyperparameter tuning, evaluation, and final model export.
 
